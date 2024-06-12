@@ -2,16 +2,6 @@
 
 Daily News App is a React-based web application that fetches and displays news articles from an API. The application includes a navigation bar with links to different news categories and displays articles in a user-friendly format.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Components](#components)
-- [Configuration](#configuration)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
